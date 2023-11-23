@@ -7,13 +7,13 @@ const jwt = require('jsonwebtoken');
 const bcrypt = require('bcrypt');
 const nodemailer = require('nodemailer');
 
-// qijvhmwyxgsyfulg
+// Google app password:-wxvd ywdq wsmt uncq
 
 const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'virajj014@gmail.com',
-        pass: 'qijvhmwyxgsyfulg'
+        user: 'sayanlucifer37@gmail.com',
+        pass: 'wxvdywdqwsmtuncq'
     }
 })
 
